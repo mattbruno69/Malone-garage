@@ -1,0 +1,2 @@
+MALONE GARAGE v1.3
+Upload ALL extracted files to the ROOT of your existing GitHub Pages repository, replacing the old files. Do not delete your saved app data. Refresh Safari, or close and reopen the Home Screen app. The new Porsche and Micra images are AI-created studio representations based on your reference photographs, not photographs of the actual cars. All other car photos are retained from the original composite.
