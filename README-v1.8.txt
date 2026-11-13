@@ -1,0 +1,1 @@
+MALONE GARAGE v1.8: Sold photographs now open full-screen on tap and close via X, tapping backdrop, or Escape. BMW i8 image replaced with a correctly framed full showroom portrait. Existing local storage keys unchanged. Backup your records before updating. Upload website files to GitHub Pages root; never publish private API keys. Push notifications still require separate setup.
